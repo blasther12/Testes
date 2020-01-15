@@ -11,6 +11,6 @@ Modelo padrão de Json para Criação de Usuario:
 </br>
 Rota Post: api/v1/Cadastro </br>
 {</br>
-	"nmUsuario" : "rafael.fo",</br>
-	"senha": "n4rni41212"</br>
+	"nmUsuario" : "UsuarioTeste",</br>
+	"senha": "Teste123"</br>
 }</br>
