@@ -8,9 +8,9 @@ Executar comando "add-migration",
 no Gerenciador de Pacotes do VS para realizar a criação do banco de dados do SqlServer.
 
 Modelo padrão de Json para Criação de Usuario:
-
-Rota Post: api/v1/Cadastro
-{
-	"nmUsuario" : "rafael.fo",
-	"senha": "n4rni41212"
-}
+</br>
+Rota Post: api/v1/Cadastro </br>
+{</br>
+	"nmUsuario" : "rafael.fo",</br>
+	"senha": "n4rni41212"</br>
+}</br>
